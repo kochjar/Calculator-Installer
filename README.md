@@ -2,7 +2,7 @@
 This is an Electron-built calculator capable of performing basic and scientific operations. It includes functions for trigonometric and logarithmic calculations and can handle multiple decimal separators. 
 
 ## Showcase
-![](https://github.com/Calculator-Installer/Calculator.gif)
+![](https://github.com/kochjar/Calculator-Installer/blob/main/Calculator.gif)
 
 ## Features
 One of the features of this calculator is that every button and action can be written with the keyboard. For example, you can type `sqrt()` to enter the square root symbol. This makes it easy and convenient to use the calculator without having to rely on the mouse.
