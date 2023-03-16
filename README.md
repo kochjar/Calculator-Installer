@@ -12,7 +12,7 @@ In addition to keyboard shortcuts for individual buttons, there are also global 
 -   `Ctrl+Enter`: Open or close the app
 -   `Ctrl+Backspace`: Clear the current calculation
 -   `Enter`: Evaluate the current calculation
--
+
 ## Installation
 To use this calculator, simply clone this repository or download the code as a zip file. The installer is included in the code, so there's no need to run any additional setup.
 
