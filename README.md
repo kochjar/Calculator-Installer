@@ -16,5 +16,8 @@ In addition to keyboard shortcuts for individual buttons, there are also global 
 ## Installation
 To use this calculator, simply clone this repository or download the code as a zip file. The installer is included in the code, so there's no need to run any additional setup.
 
+[Download the installer here](https://github.com/kochjar/Calculator-Installer/raw/main/Calculator.msi)
+
+
 ## Usage
 Once you have the code, navigate to the directory where it's saved and run the Calculator.msi file. Note that when you run the program on Windows, you may see a Windows Defender warning message. This is because I haven't obtained a digital certificate to sign the code. However, the code is safe and you can choose to download and run the installer at your own risk. Alternatively, you are welcome to scan the installer through VirusTotal or other anti-virus engines or software. 
